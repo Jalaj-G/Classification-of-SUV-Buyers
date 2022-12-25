@@ -11,7 +11,7 @@ Used k-Fold Validation for all the techniques.
 90.00% 
 #### Kernel SVM Classifier-
 93.00%
-#### Naive Bayer's Classifier-
+#### Naive Bayes Classifier-
 90.00%
 #### Decision Tree Classifier-
 91.00%
